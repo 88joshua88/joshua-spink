@@ -1,20 +1,20 @@
 /* Typography */
 .title {
   font-family: poppins;
-  font-size: 44px;
+  font-size: 35px;
   font-weight: bold;
   color: white;
 }
 
 .bigHeading {
   font-family: poppins;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: bold;
 }
 
 .smallHeading {
   font-family: poppins;
-  font-size: 44px;
+  font-size: 35px;
   font-weight: bold;
 }
 
@@ -296,7 +296,7 @@
   }
 
     .text{
-    font-size: 17px;
+    font-size: 29px;
   }
 
 
